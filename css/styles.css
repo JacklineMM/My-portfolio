@@ -44,3 +44,7 @@ table, th, td {
     position: relative;
     box-shadow: 5px 10px 10px #7e91ff;
 }
+
+.my_image img {
+    border-radius: 30px;
+}
