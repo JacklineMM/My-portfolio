@@ -6,8 +6,7 @@ This is a webpage written in html and css describing who i am. It includesa desc
 
 ## Setup/Installation Requirements
 TO access this website you require the following; a device which has a software called a web browser installed in it eg Firefox, internet explorer, chrome, safari and opera and internet connectivity. 
-Paste the following URL on the web browser to view the page. 
-https://github.com/JacklineMM/My-portfolio/tree/gh-pages
+https://github.com/JacklineMM/My-portfolio/tree/gh-pages . Follow this link to access webpage
 
 ## Technologies Used
 Html and Css
