@@ -5,15 +5,15 @@ body {
 }
 
 header {
-    background-color: darkslategray;
+    background-color: rgb(45, 108, 133);
     color: #fff;
     text-align: center;
-    padding: 20px;
+    padding: 3px;
 }
 
 .social_media ul li {
     float: right;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 .social_media ul li a img {
@@ -23,7 +23,7 @@ header {
 }
 
 .social_media ul li a img :hover {
-    background-color: azure;
+    background-color: rgb(252, 255, 240);
 }
 
 h1 {
@@ -31,7 +31,7 @@ h1 {
 }
 
 h2 {
-    color: maroon;
+    color: rgb(14, 13, 13);
 }
 
 table, th, td {
@@ -42,7 +42,7 @@ table, th, td {
     width: 100%;
     height: auto;
     position: relative;
-    box-shadow: 5px 10px 10px #7e91ff;
+    box-shadow: 5px 10px 10px #611857;
 }
 
 .my_image img {
@@ -61,7 +61,7 @@ table, th, td {
 }
 
 .top-left strong {
-    font-size: 28px;
+    font-size: 20px;
     color: #fff;
 }
 
@@ -72,19 +72,19 @@ table, th, td {
 }
 
 .roles {
-    box-shadow: 5px 10px 18px; color: rgb(46, 113, 236);
+    box-shadow: 5px 10px 18px; color: rgb(22, 8, 18);
     padding: 20px;
     border-radius: 20px;
     margin-bottom: 30px;
-    background-color: darkslateblue;
+    background-color: rgb(163, 61, 155);
     width: 500px;
 }
 
 .about_me {
-    box-shadow: 5px 10px 18px rgb(46, 113, 236);
+    box-shadow: 5px 10px 18px rgb(22, 8, 18);
     padding: 20px;
     border-radius: 20px;
-    background-color: darkslateblue;
+    background-color:rgb(163, 61, 155) ;
     width: 500px;
 }
 
@@ -102,7 +102,7 @@ li {
     margin-bottom: 10px;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 480px){
     table {
         float: none;
     }
