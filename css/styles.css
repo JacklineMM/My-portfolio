@@ -25,3 +25,22 @@ header {
 .social_media ul li a img :hover {
     background-color: azure;
 }
+
+h1 {
+    padding-bottom: 20px;
+}
+
+h2 {
+    color: maroon;
+}
+
+table, th, td {
+    padding: 50px;
+}
+
+.my_image {
+    width: 100%;
+    height: auto;
+    position: relative;
+    box-shadow: 5px 10px 10px #7e91ff;
+}
