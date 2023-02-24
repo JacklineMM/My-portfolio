@@ -15,3 +15,13 @@ header {
     float: right;
     margin-left: 50px;
 }
+
+.social_media ul li a img {
+    width: 20px;
+    height: auto;
+    background-color: blueviolet;
+}
+
+.social_media ul li a img :hover {
+    background-color: azure;
+}
